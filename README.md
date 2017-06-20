@@ -1,3 +1,6 @@
+# Reproducible Research Course Project 1
+Course Project 1 for Reproducible Research, part of Data Science Specialization by John Hopkins University on Coursera
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
