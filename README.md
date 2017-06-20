@@ -1,5 +1,5 @@
 # Reproducible Research Course Project 1
-Course Project 1 for Reproducible Research, part of Data Science Specialization by John Hopkins University on Coursera
+Course Project 1 for Reproducible Research, part of Data Science Specialization by John Hopkins University on Coursera. The purpose of this project is to demonstrate my ability to perform data analysis, and report my findings in a reproducible fashion.
 
 ## Introduction
 
