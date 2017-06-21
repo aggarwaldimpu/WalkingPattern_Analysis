@@ -1,5 +1,5 @@
 ---
-title: "Reproducible Analysis on Activity Monitoring Data"
+title: "Pattern Analysis on Activity Monitoring Data"
 author: "Jiachang (Ernest) Xu"
 date: "6/20/2017"
 output:
@@ -18,7 +18,7 @@ First of all, we load the raw data, and take a look at the top 6 rows of the raw
 ```{r loading data, echo=TRUE}
 ## loading data from activity.csv
 if(!exists("activity.raw")) {
-    activity.raw <- read.csv("./activity.csv")
+    activity.raw <- read.csv("./data/activity.csv")
 }
 head(activity.raw)
 ```
