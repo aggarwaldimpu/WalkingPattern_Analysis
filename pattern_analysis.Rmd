@@ -1,11 +1,4 @@
----
-title: "Pattern Analysis on Activity Monitoring Data"
-author: "Jiachang (Ernest) Xu"
-date: "6/20/2017"
-output:
-  html_document: default
-  pdf_document: default
----
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
